@@ -6,6 +6,6 @@ There are different types of animated charts in plotly.
 
 some of the examples are done here.
 
-colab link for the given charts are:
+colab link for the charts are:
 
 https://colab.research.google.com/drive/1jD5EVWwp1L9EPpJEtNYm1ChdWUSz1eNc?usp=sharing
